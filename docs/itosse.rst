@@ -8,6 +8,8 @@ RJPH IT Operations Service Support Escalation
  | DIRECTORY|                                          |Team     |Management    |
  |          +------------------------------------------+         |              |   
  |          | Access to a workstation                  |         |              |
+ |          +------------------------------------------+         |              |
+ |          | Reset user's password                    |         |              |
  +----------+------------------------------------------+---------+--------------+
  
      
