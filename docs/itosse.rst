@@ -10,6 +10,8 @@ RJPH IT Operations Service Support Escalation
  |          | Access to a workstation                  |         |              |
  |          +------------------------------------------+         |              |
  |          | Reset user's password                    |         |              |
+ |          +------------------------------------------+         |              |
+ |          | Disable/enable user account              |         |              | 
  +----------+------------------------------------------+---------+--------------+
  
      
