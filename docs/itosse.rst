@@ -4,11 +4,7 @@ RJPH IT Operations Service Support Escalation
  SERVICES | Primary reasons of contacting IT Support | SUPPORT | ACTION   
  --- | --- | --- | ---  
 
-
- 
-
-
-   .. csv-table:: Frozen Delights!
+ .. csv-table:: Frozen Delights!
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
 
@@ -18,4 +14,3 @@ RJPH IT Operations Service Support Escalation
    "Gannet Ripple", 1.99, "On a stick!"
 
 
-   
