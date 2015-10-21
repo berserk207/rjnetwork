@@ -6,7 +6,7 @@ RJPH IT Operations Service Support Escalation
  +==========+==========================================+=========+==============+
  | ACTIVE   | Creation of new account                  |Network  |Configuration |
  | DIRECTORY|                                          |Team     |Management    |
- |          +------------------------------------------|         |              |   
+ |          +------------------------------------------+         |              |   
  |          | Access to a workstation                  |         |              |
  +----------+------------------------------------------+---------+--------------+
  
