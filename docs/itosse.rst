@@ -1,5 +1,5 @@
 RJPH IT Operations Service Support Escalation
 =============================================
 
- SERVICES   | Primary reasons of contacting IT Support | SUPPORT | ACTION   
- -----------| ---------------------------------------| -------| --------
+ SERVICES | Primary reasons of contacting IT Support | SUPPORT | ACTION   
+ --- | --- | --- | ---  
