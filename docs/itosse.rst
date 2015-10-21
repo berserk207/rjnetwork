@@ -1,26 +1,13 @@
 RJPH IT Operations Service Support Escalation
 =============================================
 
- SERVICES | Primary reasons of contacting IT Support | SUPPORT | ACTION   
- --- | --- | --- | ---  
+ +----------+------------------------------------------+---------+--------+
+ | SERVICES | Primary reasons of contacting IT Support | SUPPORT | ACTION |  
+ +==========+==========================================+=========+========+
+ | ACTIVE   |                                          |         |        |
+ +----------+------------------------------------------+---------+--------+   
 
  
- .. list-table:: Frozen Delights!
-   :widths: 15 10 30
-   :header-rows: 1
-
-   * - Treat
-     - Quantity
-     - Description
-   * - Albatross
-     - 2.99
-     - On a stick!
-   * - 
-     - 1.49
-     - If we took the bones out, it wouldn't be
-       crunchy, now would it?
-   * - 
-     - 1.99
-     - On a stick!
-
+ 
+     
 
