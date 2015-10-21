@@ -16,7 +16,7 @@ This is the main branch that contains the changes from the developers. Features 
 
 staging
 ~~~~~~~
-This is the branch that contains changes to be released. Files that will are uploaded to staging are sourced from this branch.
+This is the branch that contains changes to be released. Files that will are uploaded to staging are sourced from this branch
 
 master
 ~~~~~~
