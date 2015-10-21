@@ -19,7 +19,7 @@ Contents:
    codereview
    mergerequestflow
    vagrant
-   kim
+   itosse
 
 .. toctree::
    :caption: Yii Guides
