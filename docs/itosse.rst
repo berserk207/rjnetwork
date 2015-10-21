@@ -5,12 +5,9 @@ RJPH IT Operations Service Support Escalation
  --- | --- | --- | ---  
 
 
- .. csv-table:: Balance Sheet
-   :header: Description,In,Out,Balance
-   :widths: 20, 10, 10, 10
+ .. csv-table:: Escalation Guide
+   :header: SERVICES,Primary reasons of contacting IT Support,SUPPORT,ACTION
+   :widths: 10, 30, 10, 10
    :stub-columns: 1
 
-   Travel,,230.00,-230.00
-   Fees,,400.00,-630.00
-   Grant,700.00,,70.00
-   Train Fare,,70.00,**0.00**
+   Active Directory,Creation of new account,Network Team,Configuration Management
