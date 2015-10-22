@@ -2,7 +2,7 @@ RJPH IT Operations Service Support Escalation
 =============================================
 
  +------------+----------------------------------+---------+--------------+
- |  SERVICES  | Primary reasons of contacting    | SUPPORT |  ACTION      |        
+ | SERVICES   | Primary reasons of contacting    |SUPPORT  |ACTION        |        
  ||           || IT Support                      ||        ||             |
  +============+==================================+=========+==============+
  | ACTIVE     | Creation of new account          | Network | Configuration| 
