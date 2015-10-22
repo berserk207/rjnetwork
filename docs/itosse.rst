@@ -2,7 +2,7 @@ RJPH IT Operations Service Support Escalation
 =============================================
 
  +------------+----------------------------------+---------+--------------+
- | SERVICES   | Primary reasons of contacting    |SUPPORT  |ACTION        |        
+ | SERVICES   | Primary reasons of contacting    | SUPPORT | ACTION       |        
  ||           || IT Support                      ||        ||             |
  +============+==================================+=========+==============+
  | ACTIVE     | Creation of new account          | Network | Configuration| 
@@ -16,7 +16,7 @@ RJPH IT Operations Service Support Escalation
  +------------+----------------------------------+---------+--------------+
  |                                                                        |
  +------------+----------------------------------+---------+--------------+
- |QNAS        | Creation of new account          | Network | Configuration|
+ | QNAS       | Creation of new account          | Network | Configuration|
  |            |                                  || Team   || Management  | 
  |            +----------------------------------+         |              |
  |            | Access to a folder               |         |              |
