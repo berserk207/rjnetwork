@@ -1,7 +1,8 @@
-RJPH IT Operations Service Support Escalation
+IT Operations Service Support Escalation
 =============================================
 
-This page shows the escalation process in each services. 
+
+This page shows the escalation process in each IT services. 
 
 
  .. figure:: _static/images/rjphitosse.png
