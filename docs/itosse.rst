@@ -15,7 +15,7 @@ RJPH IT Operations Service Support Escalation
  +------------+----------------------------------+---------+--------------+
  |                                                                        |
  +------------+----------------------------------+---------+--------------+
- |QNAS        | Creation of new account          |Network  |Configuration |
+ |QNAS        | Creation of new account          | Network | Configuration|
  |            |                                  || Team   || Management  | 
  |            +----------------------------------+         |              |
  |            | Access to a folder               |         |              |
