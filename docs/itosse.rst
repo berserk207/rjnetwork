@@ -61,3 +61,22 @@ RJPH Website
    Bug reports,Development Team,Incident and Problem Management
    Data request,Development Team,Information Request
    Modification or additional feature,Development Team,New Service Request
+
+
+RJPH Email
+
+.. csv-table:: 
+   :header: Primary reasons of contacting IT,SUPPORT,ACTION
+   :widths: 20, 10, 10
+   :stub-columns: 0
+
+	Creation of new account,Network Team (FT),Configuration Management
+	Creation of new mailing list,Network Team (FT),Configuration Management
+	Edit of mailing list,Network Team (FT),Configuration Management
+	Add new account to mailing list,Network Team (FT),Configuration Management
+	Delete an account,Network Team (FT),Configuration Management
+	Delete mailing list,Network Team (FT),Configuration Management
+	How to access the email,Network Team (FT),Information Request
+	Thunderbird email configuration and setup,Network Team (FT),Configuration Management
+
+
