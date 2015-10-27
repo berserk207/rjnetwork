@@ -19,11 +19,11 @@ This page shows the escalation process in each IT services.
    Train Fare,,70.00,**0.00**
  
 
-ACTIVE DIRECTORY
 
-.. csv-table:: 
+
+.. csv-table:: Active Directoy
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
-   :widths: 30, 10, 10
+   :widths: 25, 10, 10
    :stub-columns: 0
 
    Creation of new account,Network Team, Configuration Management
