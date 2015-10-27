@@ -5,7 +5,7 @@ IT Operations Service Support Escalation
 This page shows the escalation process in each IT services. 
 
 
-------------------------------------------------------------
+
 ACTIVE DIRECTORY
 
 .. csv-table:: 
@@ -46,3 +46,18 @@ REDMINE
    Process workflow,Network Team,Information Request
    Creation of new account,Development Team,Configuration Management
    Reset a user password,Development Team,Configuration Management
+
+
+RJPH Website
+
+.. csv-table:: 
+   :header: Primary reasons of contacting IT,SUPPORT,ACTION
+   :widths: 20, 10, 10
+   :stub-columns: 0
+
+   Reset user's password,Development Team,Configuration Management
+   Creation of user account,Development Team,Configuration Management
+   How to access RJPH website,Development Team,Information Request
+   Bug reports,Development Team,Incident and Problem Management
+   Data request,Development Team,Information Request
+   Modification or additional feature,Development Team,New Service Request
