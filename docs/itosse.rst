@@ -19,14 +19,14 @@ This page shows the escalation process in each IT services.
    Train Fare,,70.00,**0.00**
  
 
-Balance Sheet
+ACTIVE DIRECTORY
 
 .. csv-table:: 
-   :header: Description,In,Out,Balance
-   :widths: 20, 10, 10, 10
-   :stub-columns: 2
+   :header: Primary reasons of contacting IT,SUPPORT,ACTION
+   :widths: 30, 10, 10
+   :stub-columns: 0
 
-   Travel,,230.00,-230.00
-   Fees,,400.00,-630.00
-   Grant,700.00,,70.00
-   Train Fare,,70.00,**0.00**
+   Creation of new account,Network Team, Configuration Management
+   Access to a workstation,Network Team, Configuration Management
+   Reset user's password,Network Team, Configuration Management
+   Disable/enable user account,Network Team, Configuration Management
