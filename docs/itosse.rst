@@ -21,7 +21,7 @@ This page shows the escalation process in each IT services.
 
 
 
-.. csv-table::Active Directory
+.. csv-table:: Active Directory 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
    :widths: 25, 10, 10
    :stub-columns: 0
