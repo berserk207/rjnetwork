@@ -22,7 +22,7 @@ This page shows the escalation process in each IT services.
 .. csv-table:: 
    :header: Description,In,Out,Balance
    :widths: 20, 10, 10, 10
-   :stub-columns: 0
+   :stub-columns: 2
 
    Travel,,230.00,-230.00
    Fees,,400.00,-630.00
