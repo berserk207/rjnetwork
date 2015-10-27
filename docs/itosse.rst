@@ -31,3 +31,17 @@ QNAS
    Unable to access, Network Team,Configuration Management
    Retrieve a deleted file,Network Team,Configuration Management
    How to access the QNAS,Network Team,Information Request
+
+
+REDMINE
+
+.. csv-table:: 
+   :header: Primary reasons of contacting IT,SUPPORT,ACTION
+   :widths: 20, 10, 10
+   :stub-columns: 0
+
+   How to access Redmine,Network Team,Information Request
+   How to create request,Network Team,Information Request
+   Process workflow,Network Team,Information Request
+   Creation of new account,Development Team,Configuration Management
+   Reset a user password,Development Team,Configuration Management
