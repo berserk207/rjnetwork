@@ -80,3 +80,18 @@ RJPH Email
 	Thunderbird email configuration and setup,Network Team (FT),Configuration Management
 
 
+WiFi
+
+.. csv-table::
+   :header: Primary reasons of contacting IT,SUPPORT,ACTION
+   :widths: 20, 10, 10
+   :stub-columns: 0
+
+   Wifi public password,Network Team,Information Request
+   Internet connection problem,Network Team,Incident and Problem Management
+   How to connect to office Wifi,Network Team,Information Request
+   Wifi connection to office network (Priv and Public),Network Team,Configuration Management
+
+
+
+   
