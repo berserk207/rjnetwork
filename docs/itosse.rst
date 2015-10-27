@@ -7,7 +7,7 @@ This page shows the escalation process in each IT services.
 
 
 ACTIVE DIRECTORY
-~~~~~~~~~~~~~~~~
+----------------
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -21,7 +21,7 @@ ACTIVE DIRECTORY
 
 
 QNAS
-~~~~
+----
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -37,7 +37,7 @@ QNAS
 
 
 REDMINE
-~~~~~~~
+-------
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -51,7 +51,8 @@ REDMINE
    Reset a user password,Development Team,Configuration Management
 
 
-RJPH Website
+RJPH WEBSITE
+------------
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -66,7 +67,8 @@ RJPH Website
    Modification or additional feature,Development Team,New Service Request
 
 
-RJPH Email
+RJPH EMAIL
+----------
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -84,6 +86,7 @@ RJPH Email
 
 
 WIFI
+----
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -97,6 +100,7 @@ WIFI
 
 
 ESS
+---
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -111,6 +115,7 @@ ESS
 
 
 CHATTY
+------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -122,6 +127,7 @@ CHATTY
 
 
 FOOZAP
+------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -134,6 +140,7 @@ FOOZAP
 
 
 CYBOZU
+------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -146,6 +153,7 @@ CYBOZU
 
 
 WORKSTATION ISSUES
+------------------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -158,6 +166,7 @@ WORKSTATION ISSUES
 
 
 VPN CONNECTION PH SERVER
+------------------------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -171,6 +180,7 @@ VPN CONNECTION PH SERVER
 
 
 VPN CONNECTION JP SERVER
+------------------------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -184,6 +194,7 @@ VPN CONNECTION JP SERVER
 
 
 INTERNET CONNECTION
+-------------------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -197,6 +208,7 @@ INTERNET CONNECTION
 
 
 FIXED ASSET
+-----------
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -208,6 +220,7 @@ FIXED ASSET
 
 
 QNE
+---
 
 .. csv-table::
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -219,11 +232,3 @@ QNE
    Initial software installation,Network Team,Configuration Management      
 
 
-.. csv-table:: Frozen Delights!
-   :header: "Treat", "Quantity", "Description"
-   :widths: 15, 10, 30
-
-   "Albatross", 2.99, "On a stick!"
-   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
-   crunchy, now would it?"
-   "Gannet Ripple", 1.99, "On a stick!"
