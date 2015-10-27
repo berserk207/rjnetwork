@@ -149,8 +149,8 @@ WORKSTATION ISSUES
    :widths: 20, 10, 10
    :stub-columns: 0
 
-   Hardware issues, problems and troubleshooting,Network Team,Incident and Problem Management
-   Software issues, problems and troubleshooting,Network Team,Incident and Problem Management
+   "Hardware issues, problems and troubleshooting",Network Team,Incident and Problem Management
+   "Software issues, problems and troubleshooting",Network Team,Incident and Problem Management
    Software and hardware instalaltion,Network Team,Configuration Management
 
 
@@ -213,7 +213,7 @@ QNE
 
    No internet connection,Network Team,Incident and Problem Management
    Server is not accessible,Network Team,Incident and Problem Management
-   Initial software installation,Network Team,Cofiguration Management      
+   Initial software installation,Network Team,Configuration Management      
 
 
 .. csv-table:: Frozen Delights!
