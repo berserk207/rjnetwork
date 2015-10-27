@@ -19,7 +19,7 @@ This page shows the escalation process in each IT services.
    Train Fare,,70.00,**0.00**
  
 
-.. csv-table:: Balance Sheet
+.. csv-table:: 
    :header: Description,In,Out,Balance
    :widths: 20, 10, 10, 10
    :stub-columns: 1
