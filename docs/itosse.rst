@@ -7,7 +7,7 @@ This page shows the escalation process in each IT services.
 
 
 ACTIVE DIRECTORY
-----------------
+~~~~~~~~~~~~~~~~
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -21,7 +21,7 @@ ACTIVE DIRECTORY
 
 
 QNAS
-----
+~~~~
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
@@ -37,7 +37,7 @@ QNAS
 
 
 REDMINE
--------
+~~~~~~~
 
 .. csv-table:: 
    :header: Primary reasons of contacting IT,SUPPORT,ACTION
