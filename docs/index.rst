@@ -20,6 +20,7 @@ Contents:
    mergerequestflow
    vagrant
    itosse
+   greenmine
 
 .. toctree::
    :caption: Yii Guides
