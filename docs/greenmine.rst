@@ -10,7 +10,7 @@ IT Support Green Redmine
 
    Software Installation Trial,To be check by Network Admins
    Software Installation Freeware,To be check by Network Admins
-   Software Installation Licensed,Immediate superior – Refer to the RS
+   Software Installation Licensed,Immediate superior – Refer to the RS (Requisition Slip)
    Corporate Mailing Address,Immediate superior – Coordinate with HR2
    Service Mailing Address,Immediate superior – Coordinate with LMT
    Hardware upgrades and replacement,To be check by Network Admins
@@ -24,3 +24,4 @@ IT Support Green Redmine
    JP VPN account including setup,Refer to cybozu workflow:
    ,https://rarejob.cybozu.com/g/workflow/send_form.csp?cid=125&fid=335
    Other ITRR (IT Related Requests),To be checked by Network Admins
+
