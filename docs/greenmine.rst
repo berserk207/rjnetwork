@@ -10,4 +10,5 @@ This is the procedure on how to use the IT Support Green Redmine.
    :widths: 10, 10
    :stub-columns: 0
 
-   Software Installation Trial,To be check by Network Admins
+   "1."Software Installation Trial,To be check by Network Admins
+   "2."Software Installation Freeware,To be check by Network Admins
