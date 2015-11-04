@@ -12,8 +12,8 @@ http://redmine.rjph.com/projects/it-support/issues/new
    Software Installation Trial,To be check by Network Admins
    Software Installation Freeware,To be check by Network Admins
    Software Installation Licensed,Immediate superior – Refer to the RS (Requisition Slip)
-   Corporate Mailing Address,Immediate superior – Coordinate with HR2
-   Service Mailing Address,Immediate superior – Coordinate with LMT
+   Corporate Mailing List,Immediate superior – Coordinate with HR2
+   Service Mailing List,Immediate superior – Coordinate with LMT
    Hardware upgrades and replacement,To be check by Network Admins
    Active Directory and NAS,To be check by Network Admins
    Basic Employee Account Package,Coordinate with HR1
@@ -24,5 +24,6 @@ http://redmine.rjph.com/projects/it-support/issues/new
    PH VPN account including setup,Immediate Superior
    JP VPN account including setup,Refer to cybozu workflow:
    ,https://rarejob.cybozu.com/g/workflow/send_form.csp?cid=125&fid=335
+   Backend website access,Consent from immediate superior
    Other ITRR (IT Related Requests),To be checked by Network Admins
 
